@@ -1,3 +1,11 @@
 .logotipo{
     height: 300px;
 }
+main{
+    background-color: rgba(202, 199, 37, 0.842);
+    height: 350px;
+    color: rgb(124, 122, 9);
+}
+.tipo{
+    height: 100px;
+}
